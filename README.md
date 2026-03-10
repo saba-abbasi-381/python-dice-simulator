@@ -35,7 +35,7 @@ python-dice-simulator
 
 1. Clone the repository
 
-git clone https://github.com/abbasi-saba-381/python-dice-simulator.git
+git clone https://github.com/saba-abbasi-381/python-dice-simulator.git
 
 2. Navigate to the project folder
 
